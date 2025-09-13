@@ -1,1 +1,1 @@
-pygame
+We just need pygame and python program to be able to run this program, it is nice and easy to run.
